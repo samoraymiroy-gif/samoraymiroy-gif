@@ -66,9 +66,9 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samoray\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samoraymiroy-gif\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoray\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samoraymiroy-gif\&layout=compact)
 
 ---
 
