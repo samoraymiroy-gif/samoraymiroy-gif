@@ -78,5 +78,4 @@ Here you'll find my personal projects, experiments, and learning journey.
 
 > "Code, Learn, Improve, Repeat."
 
-```
-```
+🔗 Current Project: [Msgcrypto](https://github.com/samoraymiroy-gif/Msgcrypto)
