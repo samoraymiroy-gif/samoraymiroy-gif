@@ -72,9 +72,6 @@ me.say_hi()
 
 ---
 
-## 📂 Featured Projects
-
-Here you'll find my personal projects, experiments, and learning journey.
 
 
 ## 🚀 Projects
