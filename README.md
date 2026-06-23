@@ -76,6 +76,15 @@ me.say_hi()
 
 Here you'll find my personal projects, experiments, and learning journey.
 
-> "Code, Learn, Improve, Repeat."
 
-🔗 Current Project: [Msgcrypto](https://github.com/samoraymiroy-gif/Msgcrypto)
+## 🚀 Projects
+
+### 🔐 MsgCrypto
+A simple encryption and decryption tool for securing text messages.
+
+**Features:**
+- Encrypt messages
+- Decrypt messages
+- Lightweight and easy to use
+
+🔗 Repository: https://github.com/samoraymiroy-gif/Msgcrypto
